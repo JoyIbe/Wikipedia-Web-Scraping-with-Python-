@@ -34,6 +34,9 @@ The extracted data is cleaned, transformed into a structured format, and saved i
 
 - Export Data to CSV
 
+## Viz 
+[Exploratory Report](https://github.com/JoyIbe/Wikipedia-Web-Scraping-with-Python-/blob/8313d2869f27ae2ab97b6aa95059f90db0c01bcd/Web%20Scrape%20Analysis.JPG)
+
 ## Code:
 ```
 # first, import BeautifulSoup and requests
